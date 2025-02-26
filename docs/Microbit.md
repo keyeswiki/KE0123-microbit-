@@ -1,113 +1,6 @@
-Microbit V2.0入门学习套装
+# 3.Micro:bit
 
-
-# 1.产品简介：
-
-（1）Micro:bit是什么?
-
-Micro:bit主板是英国广播公司设计的，旨在帮助7年级（11-12岁）及以上的孩子更好地学习编程。Micro:bit主板拥有丰富的板资源，包括一个5\*5 LED点阵、2个可编程按钮、指南针、Micro USB端口、蓝牙模块等。它只有信用卡一半大小(4cm×5cm)，但功能非常强大。它可以用于编写电子游戏，声光互动，机器人控制，科学实验，可穿戴装置开发等，可以实现任何酷炫的小发明，无论是机器人还是乐器，没有做不到只有想不到。
-
-新款的Micro:bit V2主板上有一个可触摸感应的Logo和MEMS麦克风。背面还添加了一个蜂鸣器，这样就可以在没有外部设备的情况下播放各种声音。底部的金手指加上齿轮设计，方便用户更好地固定鳄鱼夹。此外，Micro:bit V2主板还支持休眠模式，用户可以长按Micro:bit V2主板后面的复位&电源按钮，使其进入睡眠模式，降低电池功耗。最重要的特点是Micro:bit V2主板的CPU性能比V1.5版本好得多，外加更多的RAM。所以Micro:bit V2允许用户扩展更多的功能，创造更多的创意作品。
-
-为了方便学习micro bit单片机和一些基础电子知识，我们特别搭配了这个套件。套件主要包含一个micro bit控制板和与控制板搭配使用的配件。其中套机里电池盒里需安装两个1.5V的电池，电池盒上自带拨码开关；使用时可直接连接micro bit控制板供电，电池盒的拨码开关作为电源控制开关。
-
-同时，我们还根据micro bit控制板和相关配件，设计一些特定的学习课程，课程包含接线方法，测试代码等，让你对micro bit单片机和电子知识有个更深刻的认识。
-
-（2）Micro:bit主板硬件分布图介绍：
-
-![](media/e814a95a7605eb55ed1ec9f5fcccdbdf.png)
-
-Micro:bit V2主板
-
-![](media/2154f22668594db4957361b1a3421367.jpg)
-
-Micro:bit V1.5主板
-
-Micro:bit V2主板与Micro:bit V1.5主板的比较：
-
-![](media/805141cd45e9a615efaa3ce60b539a42.png)
-
-在新款Micro:bit V2主板上按下复位&电源按钮将重置micro:bit并重新运行程序。如果你按住它，红色的LED就会慢慢褪色。当电源指示灯变暗时，松开按钮，你的micro:bit主板就会进入省电睡眠模式。通过这种方法可以让你的电池用的更持久，再次按下此按钮可以来唤醒你的Micro:bit。
-
-有关更多内容，请参阅：[https://tech.microbit.org/hardware/](https://tech.microbit.org/hardware/)
-
-<https://microbit.org/new-microbit/>
-
-[https://www.microbit.org/get-started/user-guide/overview/](https://www.microbit.org/get-started/user-guide/overview/)
-
-[https://microbit.org/get-started/user-guide/features-in-depth/](https://microbit.org/get-started/user-guide/features-in-depth/)
-
-（3）Micro:bit引脚配置介绍，如下图所示：
-
-![](media/3ce766c4a5051720181e2b7389f3ab72.png)
-![](media/82b91ff27e00acf1d3f2a7759b70cec9.png)
-
-Micro:bit V2主板 Micro:bit V1.5主板
-
-详细信息请参考官方网站：[https://tech.microbit.org/hardware/edgeconnector/](https://tech.microbit.org/hardware/edgeconnector/)
-
-<https://microbit.org/guide/hardware/pins/>
-
-（4）新款Micro:bit V2主板使用注意事项：
-
-- a\. Micro:bit   V2主板上有很多精密的电子元件，建议戴上硅胶保护套进行使用，防止短路。
-
-- b\. Micro:bit   V2主板的IO口驱动能力很弱，IO口电流不足300mA，请勿接大电流器件（例如大舵机MG995、直流电机），否则会烧坏Micro:bit   V2主板，使用前必须完全了解清楚你所使用的器件电流情况，一般建议配搭Micro:bit扩展板进行使用。
-
-- c\. 供电建议从Micro:bit V2主板的USB口进行供电，或者Micro:bit   V2主板上的3V电池座接口。Micro:bit   V2主板本身IO口是3V电平，所以是不支持5V传感器的，如需支持5V传感器需要使用
-  Micro:bit扩展板。
-
-- d\. 使用与Micro:bit   V2主板LED点阵的共用引脚（如P3、P4、P6、P7、P10），记得在代码中把LED点阵禁用掉，否则会有LED点阵显示杂乱和可能让所接传感器数据出错的现象。
-
-- e\. 3V电池座接口上不能使用超过3.3V电池，否则很容易会把Micro:bit   V2主板烧坏。
-
-- f\. 禁止放在金属制品上使用，以免发生短路。
-
-总结：Micro:bit V2主板就像是一台微型计算机，它使编程变得有形，并促进数字创造力。关于编程环境，BBC提供了一个在线编程网站：<https://microbit.org/code/>，该网站有一个易于使用的图形化程序MakeCode。
-
-# 2.产品清单：
-
-
-
-
-
-
-
-
-
-
-|编码|规格型号|数量|图片|
-|-|-|-|-|
-|1|micro：bit V2主板|1|![](media/1d3ebca396bb80c17866f756b6c7aa54.png)|
-|2|Micro USB线 1米|1|![](media/926a5a484eb3cb744c24756df24c2ade.jpg)|
-|3|带开关和接线电池盒|1|![](media/50bfbeb7cd736686303d58fcd5b372b8.jpg)|
-|4|面包板连接线30根 环保|1|![](media/c1d6fe020b7c8a22bf7f371170b981d4.jpg)|
-|5|400孔 ZY-60白色 面包板|1|![](media/203becaf73519dc6e6b692d09e0119cd.jpg)|
-|6|micro bit T型扩展板|1|![](media/022a0d050eed27760c8775fa24f91ac5.jpg)|
-|7|电阻卡|1|![](media/b5cbcf671752402ff4bd985909af7142.jpg)|
-|8|一位数码管 0.56英寸共阴红|1|![](media/4c7a4824e5028e2b25165378abcb913e.jpg)|
-|9|SG90 9G 蓝色辉盛 90度 舵机 23*12.2*29mm|1|![](media/c99c61ad264ab38d041cda0527828e1c.jpg)|
-|10|有源蜂鸣器|1|![](media/ea69e48295ca6e0dc9a763a06d3ec428.jpg)|
-|11|无源蜂鸣器|1|![](media/6242de6a45c9bf2b463c79eb1976aee6.jpg)|
-|12|12*12*7.3MM 插件轻触开关|2|![](media/5a3132b93d1910ebb747baedbbd85e7e.png)|
-|13|A24 黄帽 按键帽|2|![](media/5a3132b93d1910ebb747baedbbd85e7e.png)|
-|14|金属膜色环 1/4W 1% 220R 编带 环保|10|![](media/37469dcbeca0be984c66357452f31bbe.jpg)|
-|15|金属膜色环 1/4W 1% 1K 编带|10|![](media/f1230767b7c5b2d80a5546383277372a.jpg)|
-|16|金属膜色环 1/4W 1% 10K 编带 环保|10|![](media/db926182dc58a621ae2f00b0d4765525.jpg)|
-|17|F5-红发红-短 环保|5|![](media/90e0d13e69e0f9b178f79913a363c683.jpg)|
-|18|F5-黄发黄-短 环保|5|![](media/ecb91c275bd16f63395073ff08672abc.jpg)|
-|19|F5-蓝发蓝-短 环保|5|![](media/66fa7138ed0955868717badaebfdc922.jpg)|
-|20|F5-绿发绿-短 环保|5|![](media/347d225af647569f6bc2a09291f31938.png)|
-|21|F5-全彩RGB透明共阴 环保|1|![](media/83fd1c79777d9744ccd5c5109f97f172.jpg)|
-|22|10K 可调电位器 针长6.5MM 环保|1|![](media/3083643ad8a47850250d0c786aff78ea.jpg)|
-|23|5516 亮电阻5-10KΩ 暗电阻0.2MΩ 光敏电阻|3|![](media/61882ddc8c68a1d0064e32f42307e2a0.jpg)|
-|24|5MM 103 阻值 10K 热敏电阻|1|![](media/d40b742bee0f757d3988e76d1969977d.jpg)|
-|25|LM35DZ 原装|1|![](media/1e3f5d4c1e4708473ee18cc26398d1fd.jpg)|
-|26|红外接收 5MM 火焰 环保|1|![](media/aafcf3ef1b37e4800b18a14dec2df854.jpg)|
-|27|AETHDX-2801 滚珠开关 环保|2|![](media/b931057fccadae1073c270d50dfaf7f5.jpg)|
-
-
-# 3.Micro:bit驱动安装说明：
+# 3.1.Micro:bit驱动安装说明：
 
 如果你已经安装过micro:bit
 驱动，就不需要再次安装micro:bit驱动。假如你是首次使用micro:bit主板，则你的电脑需要安装micro:bit驱动，我们提供的micro:bit驱动文件![](media/d168460fea2398b6685dd3158d06a48a.png)和micro:bit驱动安装手册都在文件夹“Micro:bit
@@ -116,12 +9,12 @@ Micro:bit V2主板 Micro:bit V1.5主板
 ![](media/f917ad4f73c4fa12fd2795ca85c3c4e8.png)
 ![](media/74e9d779b8c45dac30390387b789797b.png)
 
-# 4.代码与编程：
+# 3.2.代码与编程：
 
 以下的步骤说明基于Windows
 操作系统，如果你使用的是其他操作系统，可以将其作为参考。
 
-## 4.1快速开始： 
+## 3.2.1快速开始： 
 
 本节介绍如何为micro:bit编写程序以及如何将其下载到micro:bit V2主板。micro:bit官方网站上有非常详细的教程，你可以参考：[https://microbit.org/guide/quick/](https://microbit.org/guide/quick/)
 
@@ -193,7 +86,7 @@ micro USB线供电 外接电源供电（3V）
 Step5：掌握：  
 本小节向你展示了如何开始使用micro:bit V2主板，但是除了MakeCode图形化编程之外，你还可以使用其他语言来编写micro:bit的程序代码。转到链接：[https://microbit.org/code/](https://microbit.org/code/)查看不同的语言编程，或查看链接：[https://microbit.org/projects/](https://microbit.org/projects/)，了解你可能想要尝试的一些内容。
 
-## 4.2.Makecode：
+## 3.2.2.Makecode：
 
 在Google Chrome访问链接：<https://makecode.microbit.org/>，打开makecode在线版本。或打开
 Windows 10 App makecode版本。
@@ -231,7 +124,7 @@ Simulator
 
 上电或复位后，“on start”指令方块中的代码将仅执行一次；并且“forever”指令方块中的代码将循环执行。
 
-## 4.3.快速下载：
+## 3.2.3.快速下载：
 
 如前所述，如果使用makecode的Windows 10 App，则可以通过单击“下载”按钮将代码快速下载到micro:bit V2主板。
 
@@ -264,13 +157,13 @@ Simulator
 
 ![](media/ce919e72cca0b62ceaac7c86bda98499.png)
 
-## 4.4.资源和代码：
+## 3.2.4.资源和代码：
 
 购买后，我们业务会提供一个相关产品的资料链接。资料中主要包含相关工具、测试代码、教程和故障处理方法等，如下图。
 
 ![](media/fcaa162b7d537e207e7277523484c34e.png)
 
-## 4.5.导入代码：
+## 3.2.5.导入代码：
 
 我们为每个项目提供十六进制代码文件（项目文件）。十六进制代码文件包含项目的所有内容，可以直接导入，你也可以手动拖动代码块来完成每个项目的代码程序。对于简单项目，建议通过拖动代码块来完成项目。
 对于复杂的项目，建议通过导入我们提供的十六进制代码文件来完成项目.
@@ -304,7 +197,7 @@ Simulator
 
 注意：如果你的电脑系统是Windows7/8而不是Windows 10，则在Google Chrome中是无法进行设备配对，从而无法直接在串口模拟器上输出一些传感器/模块的数字信号或模拟信号，可是又需要读取相应的传感器/模块的数字信号或模拟信号，那怎么办呢？这里就可以使用CoolTerm软件来读取microbit的串口数据，下面是CoolTerm安装方法。
 
-## 4.6.CoolTerm软件安装方法：
+## 3.2.6.CoolTerm软件安装方法：
 
 这里需要安装CoolTerm程序软件，CoolTerm程序软件是用来在下面的一些实验中读取串口通讯的，这里我们提供了CoolTerm程序软件的下载链接：<https://freeware.the-meiers.org/>
 
@@ -334,7 +227,7 @@ Simulator
 |![](media/36e13c266fd4b9723d9db40fe30cd203.png)|Displays the Terminal Data in Hexadecimal Format|
 |![](media/b505c71c3344036730b1d67f0c62a354.png)|Displays the Help Window|
 
-# 5.详细课程：
+# 4.详细课程：
 
 ## 实验1: 闪烁的心
 
@@ -1562,7 +1455,7 @@ LM35DZ\*1
 
 ![](media/7f9b151a4823c355469cbbfe223592c5.png)
 
-# 6.资源链接：
+# 5.资源链接：
 
 <https://makecode.microbit.org/>
 
