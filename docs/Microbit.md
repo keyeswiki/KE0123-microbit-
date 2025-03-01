@@ -239,9 +239,9 @@ Simulator
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -277,9 +277,9 @@ Simulator
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -315,9 +315,9 @@ LED点阵对应的LED来实现LED点阵显示图案、数字、字符串。除�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -345,9 +345,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -381,9 +381,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -431,9 +431,9 @@ Micro:bit V2主板有三个按键，反面的是复位按钮，正面的是两�
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -488,9 +488,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -566,9 +566,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -608,9 +608,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -662,9 +662,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -690,9 +690,9 @@ micro:bit V2主板内置有LSM303AGR
 
 2.所需组件:
 
-- Micro:bit V2主板\*1
+- Micro:bit V2主板*1
 
-- Micro USB 线\*1
+- Micro USB 线*1
 
 3.实验接线:
 
@@ -826,17 +826,17 @@ bit自带的5 x 5 LED点阵。在这个实验中我们利用外接直插LED 灯�
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LED\*1
+LED*1
 
-220Ω 电阻\*1
+220Ω 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -860,17 +860,17 @@ LED\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
 LED\*5
 
 220Ω 电阻\*5
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -894,17 +894,17 @@ Micro bit自带3个按键，其中2个用户按键和1个复位按键。本实�
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LED\*1
+LED*1
 
-220Ω 电阻\*1
+220Ω 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -928,11 +928,11 @@ LED\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
 LED\*2
 
@@ -942,7 +942,7 @@ LED\*2
 
 10KΩ 电阻\*2
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -966,17 +966,17 @@ LED\*2
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LED\*1
+LED*1
 
-220Ω 电阻\*1
+220Ω 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1006,19 +1006,19 @@ LED\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LED\*1
+LED*1
 
-220Ω 电阻\*1
+220Ω 电阻*1
 
-可调电位器\*1
+可调电位器*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1045,15 +1045,15 @@ B三个引脚的电压输入可以调节三种基色（红/蓝/绿）的强度�
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-F5-全彩RGB透明共阴\*1
+F5-全彩RGB透明共阴*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1078,21 +1078,21 @@ F5-全彩RGB透明共阴\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LED\*1
+LED*1
 
-220Ω 电阻\*1
+220Ω 电阻*1
 
-5MM 光敏电阻\*1
+5MM 光敏电阻*1
 
-10KΩ 电阻\*1
+10KΩ 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1116,15 +1116,15 @@ LED\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-有源蜂鸣器\*1
+有源蜂鸣器*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1148,15 +1148,15 @@ USB线\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-无源蜂鸣器\*1
+无源蜂鸣器*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1193,17 +1193,17 @@ GND
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-9G 舵机\*1
+9G 舵机*1
 
-可调电位器\*1
+可调电位器*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1229,19 +1229,19 @@ USB线\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-火焰传感器\*1
+火焰传感器*1
 
-有源蜂鸣器\*1
+有源蜂鸣器*1
 
-10KΩ 电阻\*1
+10KΩ 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1274,15 +1274,15 @@ USB线\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-一位数码管\*1
+一位数码管*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1309,11 +1309,11 @@ USB线\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
 滚珠开关\*2
 
@@ -1321,7 +1321,7 @@ LED\*2
 
 10KΩ 电阻\*2
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1354,15 +1354,15 @@ LED\*2
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-可调电位器\*1
+可调电位器*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1388,17 +1388,17 @@ USB线\*1
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-5MM 103 阻值 10K 绿色\*1
+5MM 103 阻值 10K 绿色*1
 
-10KΩ 电阻\*1
+10KΩ 电阻*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
@@ -1429,15 +1429,15 @@ LM35
 
 实验器材
 
-micro：bit主板\*1
+micro：bit主板*1
 
-micro bit T型扩展板 \*1
+micro bit T型扩展板 *1
 
-USB线\*1
+USB线*1
 
-LM35DZ\*1
+LM35DZ*1
 
-面包板\*1
+面包板*1
 
 面包板连接线若干
 
